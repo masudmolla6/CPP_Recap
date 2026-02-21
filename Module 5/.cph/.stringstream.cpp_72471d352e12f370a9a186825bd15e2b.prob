@@ -1,0 +1,1 @@
+{"name":"Local: stringstream","url":"e:\\C++\\Module 5\\stringstream.cpp","tests":[{"id":1771680563925,"input":"Hello Masud Rana How are you.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Module 5\\stringstream.cpp","group":"local","local":true}
